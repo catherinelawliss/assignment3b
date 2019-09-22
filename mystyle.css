@@ -1,0 +1,19 @@
+Performer {
+    background-color: #ffffff;
+    width: 100%;
+}
+Artist {
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+Title {
+    display: block;
+    color: #ff0000;
+    font-size: 20pt;
+}
+Genre, Year {
+    display: block;
+    color: #0000ff;
+    font-size: 20pt;
+}
