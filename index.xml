@@ -1,0 +1,75 @@
+<?xml-stylesheet type = "mystyle/css" "href = "mystyle.css">
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<SetList>
+ <Performance>
+  <Artist> Chris Brown </Artist>
+  <Title> Kiss Kiss </Title>
+  <Genre> R & B</Genre>
+  <Year> 2002 </Year>
+ </Performance>
+ 
+  <Performance>
+  <Artist> Yella Beezy </Artist>
+  <Title> That's On Me </Title>
+  <Genre> Rap </Genre>
+  <Year> 2018 </Year>
+ </Performance>
+ 
+  <Performance>
+  <Artist> Tory Lanez </Artist>
+  <Title> LUV </Title>
+  <Genre> Hip-Hop </Genre>
+  <Year> 2016 </Year>
+ </Performance>
+ 
+  <Performance>
+  <Artist> Jeremih </Artist>
+  <Title> The Light </Title>
+  <Genre> Soul </Genre>
+  <Year> 2018 </Year>
+ </Performance>
+ 
+  <Performance>
+  <Artist> Chris Brown </Artist>
+  <Title> Grass Ain't Greener </Title>
+  <Genre> R & B</Genre>
+  <Year> 2018 </Year>
+ </Performance>
+ 
+  <Performance>
+  <Artist> Khalid </Artist>
+  <Title> OTW </Title>
+  <Genre> Pop </Genre>
+  <Year> 2018 </Year>
+ </Performance>
+ 
+  <Performance>
+  <Artist> Dominic Fike </Artist>
+  <Title> 3 Nights </Title>
+  <Genre> Alternative </Genre>
+  <Year> 2018 </Year>
+ </Performance>
+ 
+  <Performance>
+  <Artist> Halsey </Artist>
+  <Title> Nightmare </Title>
+  <Genre> Alternative </Genre>
+  <Year> 2019 </Year>
+ </Performance>
+ 
+  <Performance>
+  <Artist> Bazzi </Artist>
+  <Title> Paradise </Title>
+  <Genre> Pop </Genre>
+  <Year> 2019 </Year>
+ </Performance>
+ 
+  <Performance>
+  <Artist> Lizzo </Artist>
+  <Title> Truth Hurts </Title>
+  <Genre> Pop </Genre>
+  <Year> 2019 </Year>
+ </Performance>
+
+</SetList>
