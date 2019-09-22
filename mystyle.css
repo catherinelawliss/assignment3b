@@ -1,19 +1,29 @@
+SetList{
+ background-color: #EDF5EI;
+  width: 100%;
+}
 Performer {
-    background-color: #ffffff;
-    width: 100%;
+   display: block;
+   margin: 10 10 10 10;
+   background-color: #8EE4AF;
+
 }
+
 Artist {
-    display: block;
-    margin-bottom: 30pt;
-    margin-left: 0;
+  display: block;
+  color: #05386B;
+  font-size: 20px;
 }
+
 Title {
     display: block;
-    color: #ff0000;
-    font-size: 20pt;
+    color:#05386B;
+    font-size: 20px;
 }
+
 Genre, Year {
     display: block;
-    color: #0000ff;
-    font-size: 20pt;
+    color: #379683;
+    font-size: 15px;
 }
+
